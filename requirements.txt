@@ -1,0 +1,5 @@
+Flask
+Flask-PyMongo
+deepgram-sdk
+pymongo
+python-dotenv
